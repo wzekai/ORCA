@@ -10,7 +10,7 @@ Code, probes, and embeddings for *Online Reasoning Calibration: Test-Time Traini
 ## Install
 
 ```bash
-git clone https://github.com/wzekai99/ORCA.git
+git clone https://github.com/wzekai/ORCA.git
 cd ORCA
 
 # Install uv if missing:
@@ -53,7 +53,7 @@ scripts/         download_artifacts.sh, reproduce_*.sh, train_from_scratch.sh
 
 ## License
 
-Code and probes: MIT. Datasets: CC-BY-4.0 with upstream attribution (see the dataset card).
+Code and probes: MIT. Datasets: CC-BY-4.0 with upstream attribution.
 
 ## Citation
 
