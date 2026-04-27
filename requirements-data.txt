@@ -1,0 +1,10 @@
+# Path B: install AFTER `uv pip install vllm --torch-backend=auto`.
+# vLLM bundles its own PyTorch; do NOT install torch separately.
+numpy
+scipy
+scikit-learn
+matplotlib
+pyyaml
+huggingface_hub
+transformers
+pandas

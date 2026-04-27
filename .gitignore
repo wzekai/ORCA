@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# Virtual env
+.venv/
+venv/
+
+# Run outputs
+results/
+probes/
+data/
+*.pt
+*.pkl
+*.log
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
